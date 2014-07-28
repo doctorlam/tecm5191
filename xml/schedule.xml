@@ -1,0 +1,258 @@
+<?xml version = "1.0" ?>
+<?xml-stylesheet href="schedule.xsl" type="text/xsl" ?>
+<schedule>
+	<class>
+		<week>1</week>
+		<date>2014-08-25</date>
+		<learning-objective>
+			<objective>Students will know the definition of digital literacy as it relates to technical communication.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Introductions
+				<duration>15 minutes</duration>
+			</activity>
+			<activity>Syllabus and course review
+				<duration>20 minutes</duration>
+			</activity>
+			<activity>Discussion about readings
+				<duration>30 minutes</duration>
+			</activity>
+			<activity>Lecture
+				<duration>20 minutes</duration>
+			</activity>
+			<activity>Information literacy scavenger hunt
+				<duration>45 minutes</duration>
+			</activity>
+		</class-activities>
+		<readings>
+			<article>Read <author>Carliner</author> article (chapter 1) in <textbook>Spilka</textbook>
+				<page-start>21</page-start>
+				<page-end>50</page-end>
+			</article>
+		</readings>
+		<assignments>
+			<homework>Bring your laptop (if you own one) to class.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>2</week>
+		<date>2014-09-08</date>
+		<learning-objective>
+			<objective>Students will apply principles of information literacy by exploring language data using AntConc.</objective>
+			<objective>Students will know the core literacies of a technical communicator based on their corpus analysis</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discussion of readings
+				<duration>30 minutes</duration>
+			</activity>
+			<activity>Lecture on corpus analysis
+				<duration>30 minutes</duration>
+			</activity>
+			<activity>Corpus analysis of TC job ads
+				<duration>45 minutes</duration>
+			</activity>
+		</class-activities>
+		<readings>
+			<article>Read <author>Dicks</author> article (chapter 2) in <textbook>Spilka</textbook>
+				<page-start>51</page-start>
+				<page-end>81</page-end>
+			</article>
+			<article>Read <author>Anthony</author> 2005 article.
+				<url>http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf</url>
+			</article>
+		</readings>
+		<assignments>
+			<homework>Bring to class .txt file of 10 jobs you would be interested in post-graduation.</homework>
+			<homework>Write a 300-word response to the following question: What are three reasons XML is relevant to technical communicators?</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>3</week>
+		<date>2014-09-15</date>
+		<learning-objective>
+			<objective>Students will present their findings from their interview and corpus assignment</objective>
+			<objective>Students will have a clear understanding of the digital literacies required of a technical communicator</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Presentations of interview and corpus findings
+				<duration>100 minutes</duration>
+			</activity>
+			<activity>Discussion and reflection
+				<duration>30 minutes</duration>
+			</activity>
+		</class-activities>
+		<readings>
+		</readings>4
+		<assignments>
+			<homework>Project 1- Interview and Corpus analysis due</homework>
+			<homework>Be prepared to share your findings in a 5-10 minute presentation</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>4</week>
+		<date>2014-09-22</date>
+		<learning-objective>
+			<objective>Students will differentiate source literacy from general digital literacy.</objective>
+			<objective>Students will know the difference between HTML and CSS.</objective>
+			<objective>Students will create a valid HTML5 page.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Lecture on basic purpose, structure, and rules of HTML
+				<duration>30 minutes</duration>
+			</activity>
+			<activity>Reverse engineering of HTML site
+				<duration>30 minutes</duration>
+			</activity>
+			<activity>HTML exploratory activity
+				<duration>60 minutes</duration>
+			</activity>
+		</class-activities>
+		<readings>
+			<article>Basic rules of HTML
+				<url>http://www.techrepublic.com/article/basic-html-rules/</url>
+			</article>
+		</readings>
+		<assignments>
+			<homework>Set up new project in GitHub entitled "HTML Fun"</homework>
+			<homework>Create a codeacademy.com account and cmplete the HTML Basics lesson</homework>
+		</assignments>
+	</class>
+		<class>
+		<week>5</week>
+		<date>2014-09-29</date>
+		<learning-objective>
+			<objective>Students will differentiate XML from HTML</objective>
+			<objective>Students will know the purpose of XML in relation to technical communication</objective>
+			<objective>Students will create an XML document of the UNT TC graduate course catalog</objective> 
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings
+				<duration>20 minutes</duration>
+			</activity>
+			<activity>Lecture on XML rules
+				<duration>30 minutes</duration>
+			</activity>
+			<activity>XML structure races
+				<duration>20 minutes</duration>
+			</activity>
+			<activity>Markup UNT TC graduate course catalog
+				<duration>60 minutes</duration>
+			</activity>
+		</class-activities>
+		<readings>
+			<chapter>Chapters 1 through 4 in <author>Cowan</author> textbook</chapter>
+			<article>Read "A Really good introduction to XML" <url>http://www.sitepoint.com/really-good-introduction-xml/</url></article>
+		</readings>
+		<assignments>
+			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is the purpose of XML and why is it relevant to technical communicators?</homework>
+			<homework>Come with 3 options for a database containing at least 20 entries. These must be written out and you must be ready to discuss them in class</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>6</week>
+		<date>2014-10-06</date>
+		<learning-objective>
+			<objective>Students will understand the purpose of XML transformations</objective>
+			<objective>Students will be able to use XSLT to transform an existing XML dataset into HTML</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings
+				<duration>20 minutes</duration>
+			</activity>
+			<activity>Lecture on XSLT transformations
+				<duration>30 minutes</duration>
+			</activity>
+			<activity>Convert existing dataset into HTML table
+				<duration>60 minutes</duration>
+			</activity>
+		</class-activities>
+		<readings>
+			<article><author>Cowan</author> chapters 5-8</article>
+			<article>Watch this video on XSLT <url>https://www.youtube.com/watch?v=hzGG32kz9nc</url></article>
+			<article>Read and go through the examples provided. <url>http://alistapart.com/article/usingxml</url></article>
+		</readings>
+		<assignments>
+			<homework>Create new GitHub repository named "XML fun"</homework>
+			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is XSLT and how is it useful for technical communicators?</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>7</week>
+		<date>2014-10-13</date>
+		<learning-objective></learning-objective>
+		<class-activities>
+			<activity>I will be in Pittsburgh for a conference. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
+		</class-activities>
+		<readings>
+		</readings>
+		<assignments>
+			<homework>Reflect: Write a 300-word reflection in HTML. Answer the following question: How can you see XML and XSLT applying to a large-ish technical communication project?</homework>
+			<homework>Show up for Google Hangout</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>8</week>
+		<date>2014-10-20</date>
+		<learning-objective></learning-objective>
+		<class-activities>
+			<activity>I will be in Japan for a presentation. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
+		</class-activities>
+		<readings>
+
+		</readings>
+		<assignments>
+			<homework>Reflect: Write a 300-word reflection in HTML. Answer the following question: How will your source literacy in XML play into your marketability in technical communication?</homework>
+			<homework>Show up for Google Hangout</homework>
+		</assignments>
+	</class>
+		<class>
+		<week>9</week>
+		<date>2014-10-27</date>
+		<learning-objective></learning-objective>
+		<class-activities>
+			<activity></activity>
+		</class-activities>
+	</class>
+		<class>
+		<week>10</week>
+		<date>2014-11-03</date>
+		<learning-objective></learning-objective>
+		<activity></activity>
+		<homework></homework>
+	</class>
+		<class>
+		<week>11</week>
+		<date>2014-11-10</date>
+		<learning-objective></learning-objective>
+		<activity></activity>
+		<homework></homework>
+	</class>
+		<class>
+		<week>12</week>
+		<date>2014-11-17</date>
+		<learning-objective></learning-objective>
+		<activity></activity>
+		<homework></homework>
+	</class>
+		<class>
+		<week>13</week>
+		<date>2014-11-24</date>
+		<learning-objective></learning-objective>
+		<activity></activity>
+		<homework></homework>
+	</class>
+		<class>
+		<week>14</week>
+		<date>2014-12-01</date>
+		<learning-objective></learning-objective>
+		<activity></activity>
+		<homework></homework>
+	</class>
+	<class>
+		<week>15</week>
+		<date>August, 25</date>
+		<learning-objective></learning-objective>
+		<activity></activity>
+		<homework></homework>
+	</class>
+</schedule>
