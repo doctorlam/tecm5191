@@ -10,12 +10,12 @@
 <body>
 	<table class="flat-table">
 			<tr>
-				<th class="thinner">Week</th>
-				<th class="thinner">Date</th>
-				<th class="wider">Learning Objective</th>
-				<th class="wider">In-Class Activities</th>
-				<th class="wider">Read</th>
-				<th class="wider">Homework</th>
+				<th>Week</th>
+				<th>Date</th>
+				<th>Learning Objective</th>
+				<th>In-Class Activities</th>
+				<th>Read</th>
+				<th>Homework</th>
 			</tr>
 		<xsl:for-each select="class">
 			<tr>
@@ -31,7 +31,8 @@
 		<xsl:for-each select="class-activities">
 				<td><ul>
 					<xsl:for-each select="activity">
-						<li><xsl:value-of select="." /></li>
+						<li>
+							<xsl:value-of select="." /></li>
 					</xsl:for-each>
 				</ul></td>
 		</xsl:for-each>

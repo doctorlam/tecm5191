@@ -25,9 +25,7 @@
 			</activity>
 		</class-activities>
 		<readings>
-			<article>Read <author>Carliner</author> article (chapter 1) in <textbook>Spilka</textbook>
-				<page-start>21</page-start>
-				<page-end>50</page-end>
+			<article>Read <author>Carliner</author> article (chapter 1) in <textbook>Spilka</textbook>. pp. 22-51. 
 			</article>
 		</readings>
 		<assignments>
@@ -53,9 +51,7 @@
 			</activity>
 		</class-activities>
 		<readings>
-			<article>Read <author>Dicks</author> article (chapter 2) in <textbook>Spilka</textbook>
-				<page-start>51</page-start>
-				<page-end>81</page-end>
+			<article>Read <author>Dicks</author> article (chapter 2) in <textbook>Spilka</textbook>, pp. 51-81.
 			</article>
 			<article>Read <author>Anthony</author> 2005 article.
 				<url>http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf</url>
@@ -140,7 +136,7 @@
 			</activity>
 		</class-activities>
 		<readings>
-			<chapter>Chapters 1 through 4 in <author>Cowan</author> textbook</chapter>
+			<article>Chapters 1 through 4 in <author>Cowan</author> textbook</article>
 			<article>Read "A Really good introduction to XML" <url>http://www.sitepoint.com/really-good-introduction-xml/</url></article>
 		</readings>
 		<assignments>
