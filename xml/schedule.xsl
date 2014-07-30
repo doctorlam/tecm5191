@@ -4,11 +4,10 @@
 <xsl:template match="/schedule">
 <html>
 	<head>
-		 <link rel="stylesheet" type="text/css" href="xml files/style.css" />
-		 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 	</head>
 <body>
-	<table class="flat-table">
+	<div class= "main-content">
+	<table>
 			<tr>
 				<th>Week</th>
 				<th>Date</th>
@@ -19,17 +18,17 @@
 			</tr>
 		<xsl:for-each select="class">
 			<tr>
-				<td class="center"><xsl:value-of select="week" /></td>
-				<td class="center"><xsl:value-of select="date" /></td>
+				<td class="narrow"><xsl:value-of select="week" /></td>
+				<td class="medium"><xsl:value-of select="date" /></td>
 		<xsl:for-each select="learning-objective">
-				<td><ul>
+				<td class="wide"><ul>
 					<xsl:for-each select="objective">
 						<li><xsl:value-of select="." /></li>
 					</xsl:for-each>
 				</ul></td>
 		</xsl:for-each>
 		<xsl:for-each select="class-activities">
-				<td><ul>
+				<td class="wide"><ul>
 					<xsl:for-each select="activity">
 						<li>
 							<xsl:value-of select="." /></li>
@@ -37,14 +36,14 @@
 				</ul></td>
 		</xsl:for-each>
 		<xsl:for-each select="readings">
-					<td><ul>
-						<xsl:for-each select="article">
-							<li><xsl:value-of select="." /></li>
-						</xsl:for-each>
+					<td class="wide"><ul>
+					<xsl:for-each select="article">
+						<li><xsl:value-of select="." disable-output-escaping="yes" /></li>
+					</xsl:for-each>
 					</ul></td>
 			</xsl:for-each>				
 			<xsl:for-each select="assignments">
-				<td><ul>
+				<td class="wide"><ul>
 					<xsl:for-each select="homework">
 						<li><xsl:value-of select="." /></li>
 					</xsl:for-each>
@@ -53,6 +52,7 @@
 			</tr>
 		</xsl:for-each>
 	</table>
+</div>
 </body>
 </html>
 

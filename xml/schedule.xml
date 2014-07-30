@@ -1,6 +1,6 @@
-<?xml version = "1.0" ?>
+<?xml version="1.0"?>
 <?xml-stylesheet href="schedule.xsl" type="text/xsl" ?>
-<schedule>
+<schedule xmlns:xlink="http://www.w3.org/1999/xlink">
 	<class>
 		<week>1</week>
 		<date>2014-08-25</date>
@@ -8,25 +8,14 @@
 			<objective>Students will know the definition of digital literacy as it relates to technical communication.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Introductions
-				<duration>15 minutes</duration>
-			</activity>
-			<activity>Syllabus and course review
-				<duration>20 minutes</duration>
-			</activity>
-			<activity>Discussion about readings
-				<duration>30 minutes</duration>
-			</activity>
-			<activity>Lecture
-				<duration>20 minutes</duration>
-			</activity>
-			<activity>Information literacy scavenger hunt
-				<duration>45 minutes</duration>
-			</activity>
+			<activity>Introductions</activity>
+			<activity>Syllabus and course review</activity>
+			<activity>Discussion about readings</activity>
+			<activity>Lecture</activity>
+			<activity>Information literacy scavenger hunt</activity>
 		</class-activities>
 		<readings>
-			<article>Read <author>Carliner</author> article (chapter 1) in <textbook>Spilka</textbook>. pp. 22-51. 
-			</article>
+			<article>Read Carliner article (chapter 1) in Spilka, pp. 22-51.</article>
 		</readings>
 		<assignments>
 			<homework>Bring your laptop (if you own one) to class.</homework>
@@ -40,22 +29,14 @@
 			<objective>Students will know the core literacies of a technical communicator based on their corpus analysis</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Discussion of readings
-				<duration>30 minutes</duration>
-			</activity>
-			<activity>Lecture on corpus analysis
-				<duration>30 minutes</duration>
-			</activity>
-			<activity>Corpus analysis of TC job ads
-				<duration>45 minutes</duration>
-			</activity>
+			<activity>Discussion of readings</activity>
+			<activity>Lecture on corpus analysis</activity>
+			<activity>Corpus analysis of TC job ads</activity>
 		</class-activities>
 		<readings>
-			<article>Read <author>Dicks</author> article (chapter 2) in <textbook>Spilka</textbook>, pp. 51-81.
-			</article>
-			<article>Read <author>Anthony</author> 2005 article.
-				<url>http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf</url>
-			</article>
+			<article>Read Dick's article (chapter 2) in Spilka, pp. 51-81.</article>
+			<!--<article xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="http://www.amazon.com/exec/obidos/ASIN/B00004TDTO/">Jaws-->
+			<article><![CDATA[<a href="mailto:master@universe.eu">mail</a>]]></article>
 		</readings>
 		<assignments>
 			<homework>Bring to class .txt file of 10 jobs you would be interested in post-graduation.</homework>
@@ -70,15 +51,11 @@
 			<objective>Students will have a clear understanding of the digital literacies required of a technical communicator</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Presentations of interview and corpus findings
-				<duration>100 minutes</duration>
-			</activity>
-			<activity>Discussion and reflection
-				<duration>30 minutes</duration>
-			</activity>
+			<activity>Presentations of interview and corpus findings</activity>
+			<activity>Discussion and reflection</activity>
 		</class-activities>
 		<readings>
-		</readings>4
+		</readings>
 		<assignments>
 			<homework>Project 1- Interview and Corpus analysis due</homework>
 			<homework>Be prepared to share your findings in a 5-10 minute presentation</homework>
@@ -93,20 +70,12 @@
 			<objective>Students will create a valid HTML5 page.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Lecture on basic purpose, structure, and rules of HTML
-				<duration>30 minutes</duration>
-			</activity>
-			<activity>Reverse engineering of HTML site
-				<duration>30 minutes</duration>
-			</activity>
-			<activity>HTML exploratory activity
-				<duration>60 minutes</duration>
-			</activity>
+			<activity>Lecture on basic purpose, structure, and rules of HTML</activity>
+			<activity>Reverse engineering of HTML site</activity>
+			<activity>HTML exploratory activity</activity>
 		</class-activities>
 		<readings>
-			<article>Basic rules of HTML
-				<url>http://www.techrepublic.com/article/basic-html-rules/</url>
-			</article>
+			<article>Basic rules of HTML.</article>
 		</readings>
 		<assignments>
 			<homework>Set up new project in GitHub entitled "HTML Fun"</homework>
@@ -122,22 +91,14 @@
 			<objective>Students will create an XML document of the UNT TC graduate course catalog</objective> 
 		</learning-objective>
 		<class-activities>
-			<activity>Discuss readings
-				<duration>20 minutes</duration>
-			</activity>
-			<activity>Lecture on XML rules
-				<duration>30 minutes</duration>
-			</activity>
-			<activity>XML structure races
-				<duration>20 minutes</duration>
-			</activity>
-			<activity>Markup UNT TC graduate course catalog
-				<duration>60 minutes</duration>
-			</activity>
+			<activity>Discuss readings</activity>
+			<activity>Lecture on XML rules</activity>
+			<activity>XML structure races</activity>
+			<activity>Markup UNT TC graduate course catalog</activity>
 		</class-activities>
 		<readings>
 			<article>Chapters 1 through 4 in <author>Cowan</author> textbook</article>
-			<article>Read "A Really good introduction to XML" <url>http://www.sitepoint.com/really-good-introduction-xml/</url></article>
+			<article>Read A Really good introduction to XML.</article>
 		</readings>
 		<assignments>
 			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is the purpose of XML and why is it relevant to technical communicators?</homework>
@@ -152,20 +113,14 @@
 			<objective>Students will be able to use XSLT to transform an existing XML dataset into HTML</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Discuss readings
-				<duration>20 minutes</duration>
-			</activity>
-			<activity>Lecture on XSLT transformations
-				<duration>30 minutes</duration>
-			</activity>
-			<activity>Convert existing dataset into HTML table
-				<duration>60 minutes</duration>
-			</activity>
+			<activity>Discuss readings</activity>
+			<activity>Lecture on XSLT transformations</activity>
+			<activity>Convert existing dataset into HTML table</activity>
 		</class-activities>
 		<readings>
-			<article><author>Cowan</author> chapters 5-8</article>
-			<article>Watch this video on XSLT <url>https://www.youtube.com/watch?v=hzGG32kz9nc</url></article>
-			<article>Read and go through the examples provided. <url>http://alistapart.com/article/usingxml</url></article>
+			<article>Cowan chapters 5-8</article>
+			<article>Watch this video on XSLT.</article>
+			<article>Read and go through the examples provided.</article>
 		</readings>
 		<assignments>
 			<homework>Create new GitHub repository named "XML fun"</homework>
@@ -194,61 +149,118 @@
 			<activity>I will be in Japan for a presentation. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
 		</class-activities>
 		<readings>
-
+			<article>Readings TBA</article>
 		</readings>
 		<assignments>
 			<homework>Reflect: Write a 300-word reflection in HTML. Answer the following question: How will your source literacy in XML play into your marketability in technical communication?</homework>
 			<homework>Show up for Google Hangout</homework>
 		</assignments>
 	</class>
-		<class>
+	<class>
 		<week>9</week>
 		<date>2014-10-27</date>
-		<learning-objective></learning-objective>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
 		<class-activities>
-			<activity></activity>
+			<activity>Lecture- Introduction to single sourcing and modular authoring</activity>
+			<activity>Modular writing class activity</activity>
+			<activity>Introduction to MadCap Flare and final group project</activity>
 		</class-activities>
-	</class>
-		<class>
-		<week>10</week>
-		<date>2014-11-03</date>
-		<learning-objective></learning-objective>
-		<activity></activity>
-		<homework></homework>
-	</class>
-		<class>
-		<week>11</week>
-		<date>2014-11-10</date>
-		<learning-objective></learning-objective>
-		<activity></activity>
-		<homework></homework>
-	</class>
-		<class>
-		<week>12</week>
-		<date>2014-11-17</date>
-		<learning-objective></learning-objective>
-		<activity></activity>
-		<homework></homework>
-	</class>
-		<class>
-		<week>13</week>
-		<date>2014-11-24</date>
-		<learning-objective></learning-objective>
-		<activity></activity>
-		<homework></homework>
-	</class>
-		<class>
-		<week>14</week>
-		<date>2014-12-01</date>
-		<learning-objective></learning-objective>
-		<activity></activity>
-		<homework></homework>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Homework TBA</homework>
+		</assignments>
 	</class>
 	<class>
-		<week>15</week>
-		<date>August, 25</date>
-		<learning-objective></learning-objective>
-		<activity></activity>
-		<homework></homework>
+		<week>10</week>
+		<date>2014-11-03</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Lecture- Working in Teams</activity>
+			<activity>Create team charter and assign team roles</activity>
+			<activity>Select a topic and begin workflow document.</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Homework TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>11</week>
+		<date>2014-11-10</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings</activity>
+			<activity>Team progress reports</activity>
+			<activity>Single sourcing activity</activity>
+			<activity>MadCap Flare workshop time</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Homework TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>12</week>
+		<date>2014-11-17</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings</activity>
+			<activity>Lecture- Team presentations and progress reports</activity>
+			<activity>MadCap Flare workshop</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Homework TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>13</week>
+		<date>2014-11-24</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings</activity>
+			<activity>Lecture- reflection and contextualization</activity>
+			<activity>MadCap Flare workshop time</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Homework TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>14</week>
+		<date>2014-12-03</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Workshop- Attendance required</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Homework TBA</homework>
+		</assignments>
 	</class>
 </schedule>
