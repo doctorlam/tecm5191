@@ -6,19 +6,24 @@
 		<date>2014-08-25</date>
 		<learning-objective>
 			<objective>Students will know the definition of digital literacy as it relates to technical communication.</objective>
+			<objective>Students will be know the basics of project workflow and document management</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Introductions</activity>
 			<activity>Syllabus and course review</activity>
 			<activity>Discussion about readings</activity>
-			<activity>Lecture</activity>
+			<activity>Lecture on workflow and document management with GitHub examples</activity>
 			<activity>Information literacy scavenger hunt</activity>
 		</class-activities>
 		<readings>
-			<article>Read Carliner article (chapter 1) in Spilka, pp. 22-51.</article>
+			<article>Read Carliner article (chapter 1) in <author>Spilka</author>, pp. 22-51.</article>
+			<article_url>Watch this YouTube video about version control and GitHub
+				<url>https://www.youtube.com/watch?v=0fKg7e37bQE</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>Bring your laptop (if you own one) to class.</homework>
+			<homework>Set up Twitter account if you don't have one. Follow 20 technical communicators.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -34,13 +39,15 @@
 			<activity>Corpus analysis of TC job ads</activity>
 		</class-activities>
 		<readings>
-			<article>Read Dick's article (chapter 2) in Spilka, pp. 51-81.</article>
-			<!--<article><![CDATA[<a href="http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf">Anthony's 2005 article on Corpus Linguistics</a>]]></article>-->
-			<article href="http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf">1</article>
+			<article>Read Dick's article (chapter 2) in <author>Spilka</author>, pp. 51-81.</article>
+			<article_url>Anthony (2005)- Article on Corpus Analysis
+				<url>http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>Bring to class .txt file of 10 jobs you would be interested in post-graduation.</homework>
 			<homework>Write a 300-word response to the following question: What are three reasons XML is relevant to technical communicators?</homework>
+			<homework>Create two new GitHub repositories. 1)"HTML-practice" 2)"XML-practice"</homework>
 		</assignments>
 	</class>
 	<class>
@@ -55,6 +62,7 @@
 			<activity>Discussion and reflection</activity>
 		</class-activities>
 		<readings>
+			<article>No readings for this week. You'll be working to finish your first project</article>
 		</readings>
 		<assignments>
 			<homework>Project 1- Interview and Corpus analysis due</homework>
@@ -75,14 +83,19 @@
 			<activity>HTML exploratory activity</activity>
 		</class-activities>
 		<readings>
-			<article>Basic rules of HTML.</article>
+			<article_url>Basic rules of HTML.
+				<url>http://www.techrepublic.com/article/basic-html-rules/</url>
+			</article_url>
+			<article_url>Watch this video: Learn HTML in 15 minutes - 
+				<url>https://www.youtube.com/watch?v=Ggh_y-33Eso</url>
+			</article_url>
 		</readings>
 		<assignments>
-			<homework>Set up new project in GitHub entitled "HTML Fun"</homework>
-			<homework>Create a codeacademy.com account and cmplete the HTML Basics lesson</homework>
+			<homework>Create a codeacademy.com account and complete the HTML Basics lesson</homework>
+			<homework>Add a .html page (it can be blank, but must have all required elements) to your GitHub repository named "HTML-practice"</homework>
 		</assignments>
 	</class>
-		<class>
+	<class>
 		<week>5</week>
 		<date>2014-09-29</date>
 		<learning-objective>
@@ -97,10 +110,13 @@
 			<activity>Markup UNT TC graduate course catalog</activity>
 		</class-activities>
 		<readings>
-			<article><![CDATA[<a href="http://www.sitepoint.com/really-good-introduction-xml/">A really good introduction to to XML</a>]]></article>
+			<article_url>A really good introduction to to XML
+				<url>http://www.sitepoint.com/really-good-introduction-xml</url>
+			</article_url>
 			<article>Chapters 1 through 4 in <author>Cowan</author> textbook</article>
 		</readings>
 		<assignments>
+			<homework>Add at least 10 tags to your HTML page and update it in your GitHub respository</homework>
 			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is the purpose of XML and why is it relevant to technical communicators?</homework>
 			<homework>Come with 3 options for a database containing at least 20 entries. These must be written out and you must be ready to discuss them in class</homework>
 		</assignments>
@@ -109,8 +125,9 @@
 		<week>6</week>
 		<date>2014-10-06</date>
 		<learning-objective>
+			<objective>Students will be able to style basic elements of an HTML page using CSS</objective>
 			<objective>Students will understand the purpose of XML transformations</objective>
-			<objective>Students will be able to use XSLT to transform an existing XML dataset into HTML</objective>
+			<objective>Students will be able to use XSLT to transform an existing XML data into an HTML table</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Discuss readings</activity>
@@ -119,12 +136,19 @@
 		</class-activities>
 		<readings>
 			<article>Cowan chapters 5-8</article>
-			<article>Watch this video on XSLT.</article>
-			<article>Read and go through the examples provided.</article>
+			<article_url>Watch this 15 minute video on CSS.
+				<url>https://www.youtube.com/watch?v=Wz2klMXDqF4</url>
+			</article_url>
+			<article_url>Watch this 18 minute video on XSLT.
+				<url>https://www.youtube.com/watch?v=hzGG32kz9nc</url>
+			</article_url>
+			<article_url>Read and go through the XML examples provided by A list apart
+				<url>http://alistapart.com/article/usingxml</url>
+			</article_url>
 		</readings>
 		<assignments>
-			<homework>Create new GitHub repository named "XML fun"</homework>
 			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is XSLT and how is it useful for technical communicators?</homework>
+			<homework>Add .css file to your github repository. File must style at least 3 HTML elements</homework>
 		</assignments>
 	</class>
 	<class>
