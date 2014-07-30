@@ -37,9 +37,12 @@
 		</xsl:for-each>
 		<xsl:for-each select="readings">
 					<td class="wide"><ul>
-					<xsl:for-each select="article">
-						<li><xsl:value-of select="." disable-output-escaping="yes" /></li>
+						<xsl:for-each select="article">
+						
+							<li><a><xsl:attribute name="href"><xsl:value-of select="." /></xsl:attribute><xsl:value-of select="." /></a></li>
+					
 					</xsl:for-each>
+					
 					</ul></td>
 			</xsl:for-each>				
 			<xsl:for-each select="assignments">
