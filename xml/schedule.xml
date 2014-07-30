@@ -35,8 +35,8 @@
 		</class-activities>
 		<readings>
 			<article>Read Dick's article (chapter 2) in Spilka, pp. 51-81.</article>
-			<!--<article xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="http://www.amazon.com/exec/obidos/ASIN/B00004TDTO/">Jaws-->
-			<article><![CDATA[<a href="mailto:master@universe.eu">mail</a>]]></article>
+			<!--<article><![CDATA[<a href="http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf">Anthony's 2005 article on Corpus Linguistics</a>]]></article>-->
+			<article href="http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf">1</article>
 		</readings>
 		<assignments>
 			<homework>Bring to class .txt file of 10 jobs you would be interested in post-graduation.</homework>
@@ -97,8 +97,8 @@
 			<activity>Markup UNT TC graduate course catalog</activity>
 		</class-activities>
 		<readings>
+			<article><![CDATA[<a href="http://www.sitepoint.com/really-good-introduction-xml/">A really good introduction to to XML</a>]]></article>
 			<article>Chapters 1 through 4 in <author>Cowan</author> textbook</article>
-			<article>Read A Really good introduction to XML.</article>
 		</readings>
 		<assignments>
 			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is the purpose of XML and why is it relevant to technical communicators?</homework>
