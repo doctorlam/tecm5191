@@ -38,11 +38,12 @@
 		<xsl:for-each select="readings">
 					<td class="wide"><ul>
 						<xsl:for-each select="article">
-						
-							<li><a><xsl:attribute name="href"><xsl:value-of select="." /></xsl:attribute><xsl:value-of select="." /></a></li>
-					
-					</xsl:for-each>
-					
+							<li><xsl:value-of select="." /></li>
+						</xsl:for-each>
+						<xsl:for-each select="article_url">
+							<li><a><xsl:attribute name="href"><xsl:value-of select="url" /></xsl:attribute>
+							<xsl:value-of select="." /></a></li>
+						</xsl:for-each>
 					</ul></td>
 			</xsl:for-each>				
 			<xsl:for-each select="assignments">
