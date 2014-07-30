@@ -19,16 +19,16 @@
 		<xsl:for-each select="class">
 			<tr>
 				<td class="narrow"><xsl:value-of select="week" /></td>
-				<td class="medium"><xsl:value-of select="date" /></td>
+				<td class="narrow"><xsl:value-of select="date" /></td>
 		<xsl:for-each select="learning-objective">
-				<td class="wide"><ul>
+				<td class="medium"><ul>
 					<xsl:for-each select="objective">
 						<li><xsl:value-of select="." /></li>
 					</xsl:for-each>
 				</ul></td>
 		</xsl:for-each>
 		<xsl:for-each select="class-activities">
-				<td class="wide"><ul>
+				<td class="medium"><ul>
 					<xsl:for-each select="activity">
 						<li>
 							<xsl:value-of select="." /></li>
@@ -36,13 +36,13 @@
 				</ul></td>
 		</xsl:for-each>
 		<xsl:for-each select="readings">
-					<td class="wide"><ul>
+					<td class="medium"><ul>
 						<xsl:for-each select="article">
 							<li><xsl:value-of select="." /></li>
 						</xsl:for-each>
 						<xsl:for-each select="article_url">
-							<li><a><xsl:attribute name="href"><xsl:value-of select="url" /></xsl:attribute>
-							<xsl:value-of select="." /></a></li>
+							<li><a class ="reading_link"><xsl:attribute name="href"><xsl:value-of select="url" /></xsl:attribute>
+							<xsl:value-of select="description" /></a></li>
 						</xsl:for-each>
 					</ul></td>
 			</xsl:for-each>				

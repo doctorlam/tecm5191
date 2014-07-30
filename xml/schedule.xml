@@ -6,18 +6,23 @@
 		<date>2014-08-25</date>
 		<learning-objective>
 			<objective>Students will know the definition of digital literacy as it relates to technical communication.</objective>
-			<objective>Students will be know the basics of project workflow and document management</objective>
+			<objective>Students will apply the principles of project workflow and document management to a new project.</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Introductions</activity>
+			<activity>Check for understanding: line-up</activity>
 			<activity>Syllabus and course review</activity>
 			<activity>Discussion about readings</activity>
-			<activity>Lecture on workflow and document management with GitHub examples</activity>
-			<activity>Information literacy scavenger hunt</activity>
+			<activity>Case study: Walk through course website as it applies to digital literacy</activity>
+			<activity>Lecture on workflow and document management with GitHub examples. Set up GitHub.</activity>
+			<activity>Class brainstorm of interview questions.</activity>
 		</class-activities>
 		<readings>
 			<article>Read Carliner article (chapter 1) in <author>Spilka</author>, pp. 22-51.</article>
-			<article_url>Watch this YouTube video about version control and GitHub
+			<article_url><description>Albers (2005). The Future of Technical Communication.</description>
+				<url></url>
+			</article_url>
+			<article_url><description>Watch this YouTube video about version control and GitHub</description>
 				<url>https://www.youtube.com/watch?v=0fKg7e37bQE</url>
 			</article_url>
 		</readings>
@@ -34,20 +39,23 @@
 			<objective>Students will know the core literacies of a technical communicator based on their corpus analysis</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Check for understanding- class line up</activity>
 			<activity>Discussion of readings</activity>
 			<activity>Lecture on corpus analysis</activity>
-			<activity>Corpus analysis of TC job ads</activity>
+			<activity>Hands-on corpus analysis of TC job ads</activity>
 		</class-activities>
 		<readings>
 			<article>Read Dick's article (chapter 2) in <author>Spilka</author>, pp. 51-81.</article>
-			<article_url>Anthony (2005)- Article on Corpus Analysis
+			<article_url><description>Rainey and Dayton (2005). Do Curricula Correspond to Managerial Expectations? Core Competencies for Technical Communicators</description>
+				<url></url>
+			</article_url>
+			<article_url><description>Anthony (2005)- Article on Corpus Analysis</description>
 				<url>http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf</url>
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Bring to class .txt file of 10 jobs you would be interested in post-graduation.</homework>
-			<homework>Write a 300-word response to the following question: What are three reasons XML is relevant to technical communicators?</homework>
-			<homework>Create two new GitHub repositories. 1)"HTML-practice" 2)"XML-practice"</homework>
+			<homework>Add text from 10 technical communication job ads to the existing file entitled "tc-jobs-corpus.txt". Be sure to add a comment that includes your name and a description of your add.</homework>
+			<homework>Write a 300-word response to the Rainey and Dayton article in a plain .txt file. Guiding question: What was surprising from the article, particularly in regards to technological competencies from both samples in the study? Upload to github class repository "5191-responses". Make sure you've created your own folder as we discussed in class.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -78,21 +86,24 @@
 			<objective>Students will create a valid HTML5 page.</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Check for understanding activity</activity>
 			<activity>Lecture on basic purpose, structure, and rules of HTML</activity>
 			<activity>Reverse engineering of HTML site</activity>
 			<activity>HTML exploratory activity</activity>
 		</class-activities>
 		<readings>
-			<article_url>Basic rules of HTML.
+			<article><author>Spilka</author>chapter 5: Content Management: Beyond Single Sourcing by William Hart-Davidson</article>
+			<article_url><description>Basic rules of HTML.</description>
 				<url>http://www.techrepublic.com/article/basic-html-rules/</url>
 			</article_url>
-			<article_url>Watch this video: Learn HTML in 15 minutes - 
+			<article_url><description>Watch this video: Learn HTML in 15 minutes</description>
 				<url>https://www.youtube.com/watch?v=Ggh_y-33Eso</url>
 			</article_url>
 		</readings>
 		<assignments>
+			<homework>Reflect: Write a 300-word response to the Chapter 5 reading using the following guiding question: How does Hart-Davidson alter your perspective on a technical communicator's role within an organization?</homework>
 			<homework>Create a codeacademy.com account and complete the HTML Basics lesson</homework>
-			<homework>Add a .html page (it can be blank, but must have all required elements) to your GitHub repository named "HTML-practice"</homework>
+			<homework>Add a .html page (it can be blank, but must have all required elements) to a GitHub repository named "HTML-practice"</homework>
 		</assignments>
 	</class>
 	<class>
@@ -104,21 +115,25 @@
 			<objective>Students will create an XML document of the UNT TC graduate course catalog</objective> 
 		</learning-objective>
 		<class-activities>
+			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
 			<activity>Lecture on XML rules</activity>
 			<activity>XML structure races</activity>
 			<activity>Markup UNT TC graduate course catalog</activity>
 		</class-activities>
 		<readings>
-			<article_url>A really good introduction to to XML
+			<article_url><description>Clark and Anderson (2005). Renegotiating with Technoiogy: Training Towards More Sustainable technical Communication</description>
+				<url></url>
+			</article_url>
+			<article_url><description>A really good introduction to to XML</description>
 				<url>http://www.sitepoint.com/really-good-introduction-xml</url>
 			</article_url>
 			<article>Chapters 1 through 4 in <author>Cowan</author> textbook</article>
 		</readings>
 		<assignments>
 			<homework>Add at least 10 tags to your HTML page and update it in your GitHub respository</homework>
-			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is the purpose of XML and why is it relevant to technical communicators?</homework>
-			<homework>Come with 3 options for a database containing at least 20 entries. These must be written out and you must be ready to discuss them in class</homework>
+			<homework>Reflect: Write a 300-word response in HTML answering the following question: What do Clark and Anderson say about technologies like XML? How does technology (and XML in particular) fit into their notion of sustainable technical communication? Commit and push your reflections to the GitHub repository "5191-responses".</homework>
+			<homework>Come to class with 3 options for a database containing at least 20 entries. These must be written out and you must be ready to discuss them in class</homework>
 		</assignments>
 	</class>
 	<class>
@@ -130,24 +145,26 @@
 			<objective>Students will be able to use XSLT to transform an existing XML data into an HTML table</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
 			<activity>Lecture on XSLT transformations</activity>
 			<activity>Convert existing dataset into HTML table</activity>
+			<activity>Learn to apply simple CSS styles to the table</activity>
 		</class-activities>
 		<readings>
-			<article>Cowan chapters 5-8</article>
-			<article_url>Watch this 15 minute video on CSS.
+			<article>Cowan chapters 5 and 7</article>
+			<article_url><description>Watch this 15 minute video on CSS.</description>
 				<url>https://www.youtube.com/watch?v=Wz2klMXDqF4</url>
 			</article_url>
-			<article_url>Watch this 18 minute video on XSLT.
+			<article_url><description>Watch this 18 minute video on XSLT.</description>
 				<url>https://www.youtube.com/watch?v=hzGG32kz9nc</url>
 			</article_url>
-			<article_url>Read and go through the XML examples provided by A list apart
+			<article_url><description>Read and go through the XML examples provided by A list apart</description>
 				<url>http://alistapart.com/article/usingxml</url>
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is XSLT and how is it useful for technical communicators?</homework>
+			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is XSLT and how is it useful for technical communicators? Commit and push to GitHub repository "5191-responses" in your folder.</homework>
 			<homework>Add .css file to your github repository. File must style at least 3 HTML elements</homework>
 		</assignments>
 	</class>
@@ -159,10 +176,11 @@
 			<activity>I will be in Pittsburgh for a conference. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
 		</class-activities>
 		<readings>
+			<article><author>Cowan</author>Chapters 8</article>
 		</readings>
 		<assignments>
-			<homework>Reflect: Write a 300-word reflection in HTML. Answer the following question: How can you see XML and XSLT applying to a large-ish technical communication project?</homework>
-			<homework>Show up for Google Hangout</homework>
+			<homework>Reflect: Write a short status report about your progress on the XML database project. Include questions at the end of the .txt file. Commit and push to GitHub repository "5191-responses" in your folder.</homework>
+			<homework>Show up for Google Hangout. Time TBA</homework>
 		</assignments>
 	</class>
 	<class>
@@ -173,10 +191,12 @@
 			<activity>I will be in Japan for a presentation. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article_url><description>Albers (2003). Single sourcing and technical communication career path</description>
+				<url>http://jazzoetry.net/tech-writing.pdf</url>
+			</article_url>
 		</readings>
 		<assignments>
-			<homework>Reflect: Write a 300-word reflection in HTML. Answer the following question: How will your source literacy in XML play into your marketability in technical communication?</homework>
+			<homework>Reflect: Write a 300-word reflection. Use the following guiding question: How does Albers' article about single sourcing change your perspective about this class and your future as a technical communicator? Commit and push to GitHub repository "5191-responses" in your folder.</homework>
 			<homework>Show up for Google Hangout</homework>
 		</assignments>
 	</class>
@@ -184,25 +204,28 @@
 		<week>9</week>
 		<date>2014-10-27</date>
 		<learning-objective>
-			<objective></objective>
+			<objective>Students will be able to research and apply "just in time" information to topics relevant to technical communication</objective>
+			<objective>Students will be able to assess the quality of a source using an objective methodology</objective>
+			<objective>Students will be able to find relevant information using user forums</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Lecture- Introduction to single sourcing and modular authoring</activity>
-			<activity>Modular writing class activity</activity>
-			<activity>Introduction to MadCap Flare and final group project</activity>
+			<activity>Introduce Projects 3 and 4</activity>
+			<activity>Information literacy scavenger hunt and race (with prizes!)</activity>
+			<activity>Lecture- Introduction to research and user forums</activity>
+			<activity>Exploring javascript to output XML to HTML</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article><author>Spilka</author>Chapter 8. Addressing Audiences in a Digital Age</article>
 		</readings>
 		<assignments>
-			<homework>Homework TBA</homework>
+			<homework>XML database project due. Send me a link to your GitHub repository.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>10</week>
 		<date>2014-11-03</date>
 		<learning-objective>
-			<objective></objective>
+			<objective>Students will understand the value of </objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Lecture- Working in Teams</activity>
@@ -210,7 +233,7 @@
 			<activity>Select a topic and begin workflow document.</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article>Chapter from Wolfe (2010) book Team Writing. I will hand out the chapter</article>
 		</readings>
 		<assignments>
 			<homework>Homework TBA</homework>
@@ -223,10 +246,9 @@
 			<objective></objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Discuss readings</activity>
-			<activity>Team progress reports</activity>
-			<activity>Single sourcing activity</activity>
-			<activity>MadCap Flare workshop time</activity>
+			<activity>Lecture- Working in Teams</activity>
+			<activity>Create team charter and assign team roles</activity>
+			<activity>Select a topic and begin workflow document.</activity>
 		</class-activities>
 		<readings>
 			<article>Readings TBA</article>
