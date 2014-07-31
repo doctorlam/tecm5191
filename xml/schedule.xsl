@@ -41,7 +41,7 @@
 							<li><xsl:value-of select="." /></li>
 						</xsl:for-each>
 						<xsl:for-each select="article_url">
-							<li><a class ="reading_link"><xsl:attribute name="href"><xsl:value-of select="url" /></xsl:attribute>
+							<li><a class="reading_link"><xsl:attribute name="href"><xsl:value-of select="url" /></xsl:attribute>
 							<xsl:value-of select="description" /></a></li>
 						</xsl:for-each>
 					</ul></td>
