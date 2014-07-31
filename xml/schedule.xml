@@ -20,7 +20,7 @@
 		<readings>
 			<article>Read Carliner article (chapter 1) in <author>Spilka</author>, pp. 22-51.</article>
 			<article_url><description>Albers (2005). The Future of Technical Communication.</description>
-				<url></url>
+				<url>../../5191/readings/albers_2005.pdf</url>
 			</article_url>
 			<article_url><description>Watch this YouTube video about version control and GitHub</description>
 				<url>https://www.youtube.com/watch?v=0fKg7e37bQE</url>
@@ -45,9 +45,9 @@
 			<activity>Hands-on corpus analysis of TC job ads</activity>
 		</class-activities>
 		<readings>
-			<article>Read Dick's article (chapter 2) in <author>Spilka</author>, pp. 51-81.</article>
+			<article><author>Dick's</author> article (chapter 2) in <author>Spilka</author>, pp. 51-81.</article>
 			<article_url><description>Rainey and Dayton (2005). Do Curricula Correspond to Managerial Expectations? Core Competencies for Technical Communicators</description>
-				<url></url>
+				<url>../../5191/readings/rainey_2005.pdf</url>
 			</article_url>
 			<article_url><description>Anthony (2005)- Article on Corpus Analysis</description>
 				<url>http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf</url>
@@ -123,7 +123,7 @@
 		</class-activities>
 		<readings>
 			<article_url><description>Clark and Anderson (2005). Renegotiating with Technoiogy: Training Towards More Sustainable technical Communication</description>
-				<url></url>
+				<url>../../5191/readings/clark_2005.pdf</url>
 			</article_url>
 			<article_url><description>A really good introduction to to XML</description>
 				<url>http://www.sitepoint.com/really-good-introduction-xml</url>
@@ -215,7 +215,7 @@
 			<activity>Exploring javascript to output XML to HTML</activity>
 		</class-activities>
 		<readings>
-			<article><author>Spilka</author>Chapter 8. Addressing Audiences in a Digital Age</article>
+			<article><author>Spilka</author> Chapter 8: Addressing Audiences in a Digital Age</article>
 		</readings>
 		<assignments>
 			<homework>XML database project due. Send me a link to your GitHub repository.</homework>
