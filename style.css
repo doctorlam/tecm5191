@@ -9,12 +9,14 @@ body {
 .main-content ul li, .main-content ol li {
 	font-size: 14px;
 	font-family: 'Open Sans'; 
-	margin-left: 10%;
+	margin-left: 5%;
 	margin-top: 14px;
-	padding-right: 10%;
 	color: #FFF6ED;
 	line-height:1.4;
 	width:80%;
+}
+.main-content ul li ul li, .main-content ol li ul li, .main-content ul li ol li {
+	margin-left: 0px;
 }
 .main-content ul li a {
 	color: #FFF6ED;
@@ -126,8 +128,7 @@ nav ul li a:visited {
 	font-size:14px;
 	color: #FFF6ED;
 	font-family: 'Open Sans', sans-serif;
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 7%;
 	width:80%;
 	line-height: 1.4;
 	margin-bottom: 20px;

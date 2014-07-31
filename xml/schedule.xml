@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <?xml-stylesheet href="schedule.xsl" type="text/xsl" ?>
-<schedule xmlns:xlink="http://www.w3.org/1999/xlink">
+<schedule>
 	<class>
 		<week>Week 1</week>
 		<date>August 25</date>
@@ -272,7 +272,7 @@
 			<article>Readings TBA</article>
 		</readings>
 		<assignments>
-			<homework>Homework TBA</homework>
+			<homework>Project 3 - Persuasive memo due. Create GitHub repository, add PDF files, and send me your link.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -307,6 +307,22 @@
 		</readings>
 		<assignments>
 			<homework>Homework TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Finals Week</week>
+		<date>December 10</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Workshop- Attendance required</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Project 4 due. Create GitHub repository, add files, and send me the link.</homework>
 		</assignments>
 	</class>
 </schedule>
