@@ -176,7 +176,10 @@
 			<activity>I will be in Pittsburgh for a conference. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
 		</class-activities>
 		<readings>
-			<article><author>Cowan</author>Chapters 8</article>
+			<article_url><description>Don't be afraid of XSLT (optional reading BUT very helpful)</description>
+				<url>http://www.ntg.nl/eurotex/DeBoerXSLT.pdf</url>
+			</article_url>
+			<article><author>Cowan</author> Chapter 8</article>
 		</readings>
 		<assignments>
 			<homework>Reflect: Write a short status report about your progress on the XML database project. Include questions at the end of the .txt file. Commit and push to GitHub repository "5191-responses" in your folder.</homework>
