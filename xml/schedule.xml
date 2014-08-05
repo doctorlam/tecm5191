@@ -228,33 +228,47 @@
 		<week>Week 10</week>
 		<date>November 3</date>
 		<learning-objective>
-			<objective>Students will understand the value of </objective>
+			<objective>Students will understand the value of single sourcing.</objective>
+			<objective>Students will know the basic principles of modular writing</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Lecture- Working in Teams</activity>
-			<activity>Create team charter and assign team roles</activity>
-			<activity>Select a topic and begin workflow document.</activity>
+			<activity>Discuss readings</activity>
+			<activity>Lecture- Modular writing and single sourcing</activity>
+			<activity>Modular writing activity</activity>
 		</class-activities>
 		<readings>
-			<article>Chapter from Wolfe (2010) book Team Writing. I will hand out the chapter</article>
+			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
+				<url>https://www.youtube.com/watch?v=83riPAybyzk</url>
+			</article_url>
+			<article_url><description>Coming to content managementInventing Infrastructure for Organizational Knowledge Work</description>
+				<url>http://www.rhetcomp.gsu.edu/~bgu/8121/TCQ-CMS(Hart-DavidsonEtAl).pdf</url>
+			</article_url>
+			<article_url><description>The impact of single sourcing and technology</description>
+				<url>http://pdf.aminer.org/000/592/394/creating_single_sourced_tutorials.pdf</url>
+			</article_url>
 		</readings>
 		<assignments>
-			<homework>Homework TBA</homework>
+			<homework>Reflect: Write a 300-word free response to the two articles assigned. Commit and push to GitHub repository.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 11</week>
 		<date>November 10</date>
 		<learning-objective>
-			<objective></objective>
+			<objective>Students will understand the value of planning in successful team projects.</objective>
+			<objective>Students will familiarize themselves with the MadCap Flare interface</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Discuss readings</activity>
 			<activity>Lecture- Working in Teams</activity>
 			<activity>Create team charter and assign team roles</activity>
 			<activity>Select a topic and begin workflow document.</activity>
+			<activity>MadCap Flare Activity</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article_url><description>Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
+				<url>https://www.youtube.com/watch?v=jA_JI6t-nmE</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>Homework TBA</homework>
@@ -272,17 +286,18 @@
 			<activity>MadCap Flare workshop</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article>Do your own research to fill in the knowledge gaps of MadCap Flare</article>
 		</readings>
 		<assignments>
-			<homework>Project 3 - Persuasive memo due. Create GitHub repository, add PDF files, and send me your link.</homework>
+			<homework>Continue to work on your persuasive memo.</homework>
+			<homework>You should be working in teams for your final project as well.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 13</week>
 		<date>November 24</date>
 		<learning-objective>
-			<objective></objective>
+			<objective>Students will be able to synthesize their experience in the course by connecting concepts and principles from the beginning to the end of the semester.</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Discuss readings</activity>
@@ -293,23 +308,24 @@
 			<article>Readings TBA</article>
 		</readings>
 		<assignments>
-			<homework>Homework TBA</homework>
+			<homework>Project 3 - Persuasive memo due. Create GitHub repository, add PDF files, and send me your link.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 14</week>
 		<date>December 3</date>
 		<learning-objective>
-			<objective></objective>
+			<objective>No new content this week.</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Workshop- Attendance required</activity>
+			<activity>Course Evaluation</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article>No New Readings</article>
 		</readings>
 		<assignments>
-			<homework>Homework TBA</homework>
+			<homework>Keep working on your final projects.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -322,7 +338,7 @@
 			<activity>Workshop- Attendance required</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article>No new readings</article>
 		</readings>
 		<assignments>
 			<homework>Project 4 due. Create GitHub repository, add files, and send me the link.</homework>
