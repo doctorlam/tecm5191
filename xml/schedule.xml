@@ -23,7 +23,7 @@
 				<url>../../5191/readings/albers_2005.pdf</url>
 			</article_url>
 			<article_url><description>Watch this YouTube video about version control and GitHub</description>
-				<url>https://www.youtube.com/watch?v=0fKg7e37bQE</url>
+				<url>http://youtu.be/E8TXME3bzNs</url>
 			</article_url>
 		</readings>
 		<assignments>
@@ -92,7 +92,7 @@
 			<activity>HTML exploratory activity</activity>
 		</class-activities>
 		<readings>
-			<article><author>Spilka</author>chapter 5: Content Management: Beyond Single Sourcing by William Hart-Davidson</article>
+			<article><author>Spilka</author> chapter 5: Content Management: Beyond Single Sourcing by William Hart-Davidson</article>
 			<article_url><description>Basic rules of HTML.</description>
 				<url>http://www.techrepublic.com/article/basic-html-rules/</url>
 			</article_url>
