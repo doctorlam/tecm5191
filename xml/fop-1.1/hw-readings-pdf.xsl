@@ -7,12 +7,12 @@
 <xsl:template match="schedule">
   <fo:root>
       <fo:layout-master-set>
-        <fo:simple-page-master master-name="A4-portrait"
-              page-height="29.7cm" page-width="21cm" margin="2cm">
+        <fo:simple-page-master master-name="A4-landscape"
+              page-height="8.5in" page-width="11in" margin="1in">
           <fo:region-body/>
         </fo:simple-page-master>
       </fo:layout-master-set>
-      <fo:page-sequence master-reference="A4-portrait">
+      <fo:page-sequence master-reference="A4-landscape">
         <fo:flow flow-name="xsl-region-body">
      <fo:block font-size="14pt" color="blue" font-family="sans-serif">TECM 5191 - Homework and Readings</fo:block>
     <fo:block margin-top="5pt" margin-bottom="20pt" font-size="8pt" color="blue" font-family="sans-serif">This PDF was generated on:<xsl:value-of select="document(&apos;http://xobjex.com/service/date.xsl&apos;)/date/utc/@rfc-822"/></fo:block>
