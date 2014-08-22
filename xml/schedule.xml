@@ -15,12 +15,13 @@
 			<activity>Discussion about readings</activity>
 			<activity>Case study: Walk through course website as it applies to digital literacy</activity>
 			<activity>Let's git ready to rumble.</activity>
+			<activity>First git XML repository</activity>
 			<activity>Class brainstorm of interview questions.</activity>
 		</class-activities>
 		<readings>
 			<article>Read Carliner article (chapter 1) in <author>Spilka</author>, pp. 22-51.</article>
 			<article_url><description>Albers (2005). The Future of Technical Communication.</description>
-				<url>../../5191/readings/albers_2005.pdf</url>
+				<url>http://courses.christopherylam.com/5191/readings/albers_2005.pdf</url>
 			</article_url>
 			<article_url><description>Watch this YouTube video about version control and GitHub</description>
 				<url>http://youtu.be/E8TXME3bzNs</url>
@@ -40,14 +41,16 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Check for understanding- class line up</activity>
+			<activity>XML activity</activity>
 			<activity>Discussion of readings</activity>
 			<activity>Lecture on corpus analysis</activity>
 			<activity>Hands-on corpus analysis of TC job ads</activity>
 		</class-activities>
 		<readings>
+			<article>Cown Chapters 1, 2, and 5</article>
 			<article><author>Dick's</author> article (chapter 2) in <author>Spilka</author>, pp. 51-81.</article>
 			<article_url><description>Rainey and Dayton (2005). Do Curricula Correspond to Managerial Expectations? Core Competencies for Technical Communicators</description>
-				<url>../../5191/readings/rainey_2005.pdf</url>
+				<url>http://courses.christopherylam.com/5191/readings/rainey_2005.pdf</url>
 			</article_url>
 			<article_url><description>Anthony (2005)- Article on Corpus Analysis</description>
 				<url>http://www.antlab.sci.waseda.ac.jp/research/ipcc_2005_anthony_antconc.pdf</url>
@@ -123,12 +126,12 @@
 		</class-activities>
 		<readings>
 			<article_url><description>Clark and Anderson (2005). Renegotiating with Technoiogy: Training Towards More Sustainable technical Communication</description>
-				<url>../../5191/readings/clark_2005.pdf</url>
+				<url>http://courses.christopherylam.com/5191/readings/clark_2005.pdf</url>
 			</article_url>
 			<article_url><description>A really good introduction to to XML</description>
 				<url>http://www.sitepoint.com/really-good-introduction-xml</url>
 			</article_url>
-			<article>Chapters 1 through 4 in <author>Cowan</author> textbook</article>
+			<article>Cowan chapters 3 and 4</article>
 		</readings>
 		<assignments>
 			<homework>Add at least 10 tags to your HTML page and update it in your GitHub respository</homework>
@@ -152,7 +155,7 @@
 			<activity>Learn to apply simple CSS styles to the table</activity>
 		</class-activities>
 		<readings>
-			<article>Cowan chapters 5 and 7</article>
+			<article>Cowan chapter 7</article>
 			<article_url><description>Watch this 15 minute video on CSS.</description>
 				<url>https://www.youtube.com/watch?v=Wz2klMXDqF4</url>
 			</article_url>
@@ -171,12 +174,17 @@
 	<class>
 		<week>Week 7</week>
 		<date>October 13</date>
-		<learning-objective></learning-objective>
+		<learning-objective>
+			<objective>Students will understand what XSLT is and how it interacts with XML</objective>
+		</learning-objective>
 		<class-activities>
 			<activity>I will be in Pittsburgh for a conference. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
 		</class-activities>
 		<readings>
-			<article_url><description>Don't be afraid of XSLT (optional reading BUT very helpful)</description>
+			<article_url><description>Watch YouTube lecture on XSLT transformations</description>
+				<url>#</url>
+			</article_url>
+			<article_url><description>Don't be afraid of XSLT</description>
 				<url>http://www.ntg.nl/eurotex/DeBoerXSLT.pdf</url>
 			</article_url>
 			<article><author>Cowan</author> Chapter 8</article>
@@ -189,7 +197,9 @@
 	<class>
 		<week>Week 8</week>
 		<date>October 20</date>
-		<learning-objective></learning-objective>
+		<learning-objective>
+			<objective>No new knowledge this week.</objective>
+		</learning-objective>
 		<class-activities>
 			<activity>I will be in Japan for a presentation. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
 		</class-activities>
