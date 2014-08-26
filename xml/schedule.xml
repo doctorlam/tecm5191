@@ -40,14 +40,14 @@
 			<objective>Students will know the core literacies of a technical communicator based on their corpus analysis</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Check for understanding- class line up</activity>
+			<activity>Human likert scale</activity>
 			<activity>XML activity</activity>
 			<activity>Discussion of readings</activity>
 			<activity>Lecture on corpus analysis</activity>
 			<activity>Hands-on corpus analysis of TC job ads</activity>
 		</class-activities>
 		<readings>
-			<article>Cown Chapters 1, 2, and 5</article>
+			<article>Cowan Chapters 1, 2, and 5</article>
 			<article><author>Dick's</author> article (chapter 2) in <author>Spilka</author>, pp. 51-81.</article>
 			<article_url><description>Rainey and Dayton (2005). Do Curricula Correspond to Managerial Expectations? Core Competencies for Technical Communicators</description>
 				<url>http://courses.christopherylam.com/5191/readings/rainey_2005.pdf</url>
@@ -57,8 +57,8 @@
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Add text from 10 technical communication job ads to the existing file entitled "tc-jobs-corpus.txt". Be sure to add a comment that includes your name and a description of your add.</homework>
-			<homework>Write a 300-word response to the Rainey and Dayton article in a plain .txt file. Guiding question: What was surprising from the article, particularly in regards to technological competencies from both samples in the study? Upload to github class repository "5191-responses". Make sure you've created your own folder as we discussed in class.</homework>
+			<homework>Add text from 10 technical communication job ads to the GitHub repository entitled "corpus". Name the file your last name (e.g., "lam.txt")</homework>
+			<homework>Write a 300-word response to the Rainey and Dayton article in a plain .txt file. Guiding question: What was surprising from the article, particularly in regards to technological competencies from both samples in the study? Push to github class repository "5191-responses". Name the file your last name followed by -readings (e.g., "lam-readings.txt").</homework>
 		</assignments>
 	</class>
 	<class>
