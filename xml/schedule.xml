@@ -102,14 +102,17 @@
 			<article_url><description>Watch this video: Learn HTML in 15 minutes</description>
 				<url>https://www.youtube.com/watch?v=Ggh_y-33Eso</url>
 			</article_url>
+			<article_url><description>Another Adam and Sara's Article (Yep, both are required reading)</description>
+				<url>http://courses.christopherylam.com/5191/readings/andersen_2011.pdf</url>
+			</article_url>
 			<article_url><description>Adam and Sara's Article</description>
 				<url>http://courses.christopherylam.com/5191/readings/carter_2003.pdf</url>
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Reflect: Write a 300-word response to the Chapter 5 reading using the following guiding question: How does Hart-Davidson alter your perspective on a technical communicator's role within an organization?</homework>
+			<homework>Reflect: Write a 300-word response to the Chapter 5 reading using the following guiding question: How does Hart-Davidson alter your perspective on a technical communicator's role within an organization? Add a .txt file to your folder in the 5191-responses GitHub repository. Be sure to "git pull" before "git push". </homework>
 			<homework>Create a codeacademy.com account and complete the HTML Basics lesson</homework>
-			<homework>Add a .html page (it can be blank, but must have all required elements) to a GitHub repository named "HTML-practice"</homework>
+			<homework>Add an .html page (it can be blank, but must have all required elements of a valid) to a GitHub repository named "HTML-practice". Clone the repository to your computer, add a folder with your last name, and push back to the repo.</homework>
 		</assignments>
 	</class>
 	<class>
