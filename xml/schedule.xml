@@ -158,6 +158,12 @@
 			<activity>Learn to apply simple CSS styles to the table</activity>
 		</class-activities>
 		<readings>
+			<article_url><description>Andrew and Nathaniel's Article 1</description>
+				<url>http://courses.christopherylam.com/5191/readings/sapienza.pdf</url>
+			</article_url>
+			<article_url><description>Andrew and Nathaniel's Article 2</description>
+				<url>http://courses.christopherylam.com/5191/readings/rauch_2010.pdf</url>
+			</article_url>
 			<article>Cowan chapter 7</article>
 			<article_url><description>Watch this 15 minute video on CSS.</description>
 				<url>https://www.youtube.com/watch?v=Wz2klMXDqF4</url>
