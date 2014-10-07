@@ -194,7 +194,7 @@
 		</class-activities>
 		<readings>
 			<article_url><description>Watch YouTube lecture on XSLT transformations</description>
-				<url>#</url>
+				<url>http://youtu.be/Rn1bvTYYsCY</url>
 			</article_url>
 			<article_url><description>Don't be afraid of XSLT</description>
 				<url>http://www.ntg.nl/eurotex/DeBoerXSLT.pdf</url>
@@ -203,7 +203,6 @@
 		</readings>
 		<assignments>
 			<homework>Reflect: Write a short status report about your progress on the XML database project. Include questions at the end of the .txt file. Commit and push to GitHub repository "5191-responses" in your folder.</homework>
-			<homework>Show up for Google Hangout. Time TBA</homework>
 		</assignments>
 	</class>
 	<class>
@@ -222,7 +221,6 @@
 		</readings>
 		<assignments>
 			<homework>Reflect: Write a 300-word reflection. Use the following guiding question: How does Albers' article about single sourcing change your perspective about this class and your future as a technical communicator? Commit and push to GitHub repository "5191-responses" in your folder.</homework>
-			<homework>Show up for Google Hangout</homework>
 		</assignments>
 	</class>
 	<class>
