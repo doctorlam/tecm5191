@@ -239,6 +239,7 @@
 		</class-activities>
 		<readings>
 			<article><author>Spilka</author> Chapter 8: Addressing Audiences in a Digital Age</article>
+
 		</readings>
 		<assignments>
 			<homework>XML database project due. Send me a link to your GitHub repository.</homework>
@@ -286,8 +287,12 @@
 			<activity>MadCap Flare Activity</activity>
 		</class-activities>
 		<readings>
+		<article_url><description>Autumn, Dallas, and Tracy's Article</description>
+				<url>http://courses.christopherylam.com/5191/readings/selting_2002.pdf</url>
+			</article_url>
 			<article_url><description>Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
 				<url>https://www.youtube.com/watch?v=jA_JI6t-nmE</url>
+				
 			</article_url>
 		</readings>
 		<assignments>
