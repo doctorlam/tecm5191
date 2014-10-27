@@ -232,10 +232,9 @@
 			<objective>Students will be able to find relevant information using user forums</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Introduce Projects 3 and 4</activity>
-			<activity>Information literacy scavenger hunt and race (with prizes!)</activity>
-			<activity>Lecture- Introduction to research and user forums</activity>
-			<activity>Exploring javascript to output XML to HTML</activity>
+			<activity>Share project 2</activity>
+			<activity>Discuss Projects 3 and 4</activity>
+			<activity>Research activity</activity>
 		</class-activities>
 		<readings>
 			<article><author>Spilka</author> Chapter 8: Addressing Audiences in a Digital Age</article>
@@ -254,14 +253,15 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Discuss readings</activity>
-			<activity>Lecture- Modular writing and single sourcing</activity>
+			<activity>Discuss modular writing and single sourcing</activity>
+			<activity>Research activity</activity>
 			<activity>Modular writing activity</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
 				<url>https://www.youtube.com/watch?v=83riPAybyzk</url>
 			</article_url>
-			<article_url><description>Coming to content managementInventing Infrastructure for Organizational Knowledge Work</description>
+			<article_url><description>Coming to content management-Inventing Infrastructure for Organizational Knowledge Work</description>
 				<url>http://www.rhetcomp.gsu.edu/~bgu/8121/TCQ-CMS(Hart-DavidsonEtAl).pdf</url>
 			</article_url>
 			<article_url><description>The impact of single sourcing and technology</description>
