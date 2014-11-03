@@ -253,9 +253,11 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Discuss readings</activity>
+			<activity>Brainstorm in small groups for Project 3</activity>
 			<activity>Discuss modular writing and single sourcing</activity>
 			<activity>Research activity</activity>
 			<activity>Modular writing activity</activity>
+			<activity>Discuss potential final projects</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
@@ -280,10 +282,9 @@
 			<objective>Students will familiarize themselves with the MadCap Flare interface</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Discuss readings</activity>
-			<activity>Lecture- Working in Teams</activity>
-			<activity>Create team charter and assign team roles</activity>
-			<activity>Select a topic and begin workflow document.</activity>
+			<activity>Graduate discussion of readings</activity>
+			<activity>Dicuss topics and one-on-one conferences</activity>
+			<activity>Small groups/Flare update</activity>
 			<activity>MadCap Flare Activity</activity>
 		</class-activities>
 		<readings>
@@ -292,7 +293,6 @@
 			</article_url>
 			<article_url><description>Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
 				<url>https://www.youtube.com/watch?v=jA_JI6t-nmE</url>
-				
 			</article_url>
 		</readings>
 		<assignments>
@@ -307,7 +307,6 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Discuss readings</activity>
-			<activity>Lecture- Team presentations and progress reports</activity>
 			<activity>MadCap Flare workshop</activity>
 		</class-activities>
 		<readings>
