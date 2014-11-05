@@ -253,11 +253,9 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Discuss readings</activity>
+			<activity>Information Scavenger Hunt (with prizes!)</activity>
 			<activity>Brainstorm in small groups for Project 3</activity>
-			<activity>Discuss modular writing and single sourcing</activity>
-			<activity>Research activity</activity>
-			<activity>Modular writing activity</activity>
-			<activity>Discuss potential final projects</activity>
+			<activity>Discuss potential final projects one-on-one</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
@@ -284,8 +282,8 @@
 		<class-activities>
 			<activity>Graduate discussion of readings</activity>
 			<activity>Dicuss topics and one-on-one conferences</activity>
+			<activity>Discuss Modular writing homework</activity>
 			<activity>Small groups/Flare update</activity>
-			<activity>MadCap Flare Activity</activity>
 		</class-activities>
 		<readings>
 		<article_url><description>Autumn, Dallas, and Tracy's Article</description>
@@ -296,7 +294,8 @@
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Homework TBA</homework>
+			<homework>Modular writing homework.</homework>
+			<homework>Proposal for Final Project</homework>
 		</assignments>
 	</class>
 	<class>
