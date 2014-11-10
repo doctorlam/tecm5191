@@ -309,6 +309,9 @@
 			<activity>MadCap Flare workshop</activity>
 		</class-activities>
 		<readings>
+			<article_url><description>Victor and Erika's Article</description>
+				<url>http://courses.christopherylam.com/5191/readings/pringle_2005.pdf</url>
+			</article_url>
 			<article>Do your own research to fill in the knowledge gaps of MadCap Flare</article>
 		</readings>
 		<assignments>
