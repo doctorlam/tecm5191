@@ -305,8 +305,10 @@
 			<objective></objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Discuss readings</activity>
-			<activity>MadCap Flare workshop</activity>
+			<activity>Graduate level discussion</activity>
+			<activity>Discuss modular authoring activity</activity>
+			<activity>Short content management discussion/activity</activity>
+			<activity>Workshop</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Victor and Erika's Article</description>
@@ -317,7 +319,7 @@
 		<assignments>
 			<homework>Modular authoring in-class acitvity (Upload to Blackboard)</homework>
 			<homework>Continue to work on your persuasive memo.</homework>
-			<homework>You should be working in teams for your final project as well.</homework>
+			<homework>You should be working in teams for your final project.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -329,7 +331,7 @@
 		<class-activities>
 			<activity>Discuss readings</activity>
 			<activity>Lecture- reflection and contextualization</activity>
-			<activity>MadCap Flare workshop time</activity>
+			<activity>Workshop time</activity>
 		</class-activities>
 		<readings>
 			<article>Readings TBA</article>
