@@ -2,7 +2,7 @@
 <?xml-stylesheet href="schedule.xsl" type="text/xsl" ?>
 <schedule>
 	<class>
-		<week>Week 1</week>
+		<week id="week1">Week 1</week>
 		<date>August 24</date>
 		<learning-objective>
 			<objective>Students will know the definition of digital literacy as it relates to technical communication.</objective>
@@ -93,16 +93,17 @@
 			<article>No readings for this week. You'll be working to finish your first project</article>
 		</readings>
 		<assignments>
-			<homework>Project 1- Interview and Corpus analysis due</homework>
+			<homework>Project 1- Interview and Corpus analysis due. Push to Git repo.</homework>
 			<homework>Be prepared to share your findings in a 5-7 minute presentation</homework>
+			<homework>Come to class with at least 3 viable database options for project 2</homework>
 		</assignments>
 	</class>
 	<class>
-		<week>Week 4</week>
-		<date>September 21</date>
+		<week>Week 5</week>
+		<date>September 28</date>
 		<learning-objective>
 			<objective>Students will differentiate source literacy from general digital literacy.</objective>
-			<objective>Students will know the difference between HTML and CSS.</objective>
+			<objective>Students will know the difference between HTML/CSS and XML.</objective>
 			<objective>Students will create a valid HTML5 page.</objective>
 		</learning-objective>
 		<class-activities>
@@ -127,8 +128,8 @@
 		</assignments>
 	</class>
 	<class>
-		<week>Week 5</week>
-		<date>September 28</date>
+		<week>Week 6</week>
+		<date>October 5</date>
 		<learning-objective>
 			<objective>Students will differentiate XML from HTML</objective>
 			<objective>Students will know the purpose of XML in relation to technical communication</objective>
@@ -156,8 +157,8 @@
 		</assignments>
 	</class>
 	<class>
-		<week>Week 6</week>
-		<date>October 5</date>
+		<week>Week 7</week>
+		<date>October 12</date>
 		<learning-objective>
 			<objective>Students will be able to style basic elements of an HTML page using CSS</objective>
 			<objective>Students will understand the purpose of XML transformations</objective>
@@ -187,13 +188,13 @@
 		</assignments>
 	</class>
 	<class>
-		<week>Week 7</week>
-		<date>October 12</date>
+		<week>Week 8</week>
+		<date>October 19</date>
 		<learning-objective>
 			<objective>Students will understand what XSLT is and how it interacts with XML</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>I will be in Pittsburgh for a conference. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
+			<activity>Workshop for XML project.</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Watch YouTube lecture on XSLT transformations</description>
@@ -208,13 +209,15 @@
 		</assignments>
 	</class>
 	<class>
-		<week>Week 8</week>
-		<date>October 19</date>
+		<week>Week 9</week>
+		<date>October 26</date>
 		<learning-objective>
 			<objective>No new knowledge this week.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>I will be in Japan for a presentation. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
+			<activity>Present Project 2</activity>
+			<activity>Discuss Project 3</activity>
+			<activity>Get into groups for project 3</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Albers (2003). Single sourcing and technical communication career path</description>
@@ -222,44 +225,45 @@
 			</article_url>
 		</readings>
 		<assignments>
+			<homework>Project 2 due before class. Push to Git repo.</homework>
 			<homework>Reflect: Write a 300-word reflection. Use the following guiding question: How does Albers' article about single sourcing change your perspective about this class and your future as a technical communicator? Commit and push to GitHub repository "5191-responses" in your folder.</homework>
-		</assignments>
-	</class>
-	<class>
-		<week>Week 9</week>
-		<date>October 26</date>
-		<learning-objective>
-			<objective>Students will be able to research and apply "just in time" information to topics relevant to technical communication</objective>
-			<objective>Students will be able to assess the quality of a source using an objective methodology</objective>
-			<objective>Students will be able to find relevant information using user forums</objective>
-		</learning-objective>
-		<class-activities>
-			<activity>Share project 2</activity>
-			<activity>Discuss Projects 3 and 4</activity>
-			<activity>Research activity</activity>
-		</class-activities>
-		<readings>
-			<article><author>Spilka</author> Chapter 8: Addressing Audiences in a Digital Age</article>
-
-		</readings>
-		<assignments>
-			<homework>XML database project due. Send me a link to your GitHub repository.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 10</week>
 		<date>November 2</date>
 		<learning-objective>
-			<objective>Students will understand the value of single sourcing.</objective>
+			<objective>Students will differntiate data, information, and knowledge</objective>
+			<objective>Students will be able to differntiate information architecture and informaiton design and apply principles of each to technical communication.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Lecture on data, information, and knowledge</activity>
+			<activity>Discuss information architecture and information design</activity>
+			<activity>Architecture activity</activity>
+		</class-activities>
+		<readings>
+			<article><author>Spilka</author> Chapter 8: Addressing Audiences in a Digital Age</article>
+
+		</readings>
+		<assignments>
+			<homework>Come to class with at least 10 interview questions and 5 possible participants for your research. Write in a text file and push to git repo.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 11</week>
+		<date>November 9</date>
+		<learning-objective>
+			<objective>Students will understand the value of topic-based authoring.</objective>
 			<objective>Students will know the basic principles of modular writing</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Discuss readings</activity>
-			<activity>Information Scavenger Hunt (with prizes!)</activity>
-			<activity>Brainstorm in small groups for Project 3</activity>
-			<activity>Discuss potential final projects one-on-one</activity>
+			<activity>Topic-based authoring lecture.</activity>
+			<activity>Related topics activity</activity>
+		
 		</class-activities>
 		<readings>
+			<article>EPOP Reading--TBA</article>
 			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
 				<url>https://www.youtube.com/watch?v=83riPAybyzk</url>
 			</article_url>
@@ -275,76 +279,68 @@
 		</assignments>
 	</class>
 	<class>
-		<week>Week 11</week>
-		<date>November 9</date>
+		<week>Week 12</week>
+		<date>November 16</date>
 		<learning-objective>
-			<objective>Students will understand the value of planning in successful team projects.</objective>
-			<objective>Students will familiarize themselves with the MadCap Flare interface</objective>
+			<objective>Students will be able to apply top-down architecture</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Graduate discussion of readings</activity>
-			<activity>Dicuss topics and one-on-one conferences</activity>
-			<activity>Discuss Modular writing homework</activity>
 			<activity>Small groups/Flare update</activity>
+			<activity>Card sort activity</activity>
 		</class-activities>
 		<readings>
-		<article_url><description>Autumn, Dallas, and Tracy's Article</description>
-				<url>http://courses.christopherylam.com/5191/readings/selting_2002.pdf</url>
-			</article_url>
+		
 			<article_url><description>Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
 				<url>https://www.youtube.com/watch?v=jA_JI6t-nmE</url>
 			</article_url>
 		</readings>
 		<assignments>
 			<homework>Modular writing homework.</homework>
-			<homework>Proposal for Final Project</homework>
-		</assignments>
-	</class>
-	<class>
-		<week>Week 12</week>
-		<date>November 16</date>
-		<learning-objective>
-			<objective></objective>
-		</learning-objective>
-		<class-activities>
-			<activity>Graduate level discussion</activity>
-			<activity>Discuss modular authoring activity</activity>
-			<activity>Short content management discussion/activity</activity>
-			<activity>Workshop</activity>
-		</class-activities>
-		<readings>
-			<article_url><description>Victor and Erika's Article</description>
-				<url>http://courses.christopherylam.com/5191/readings/pringle_2005.pdf</url>
-			</article_url>
-			<article>Do your own research to fill in the knowledge gaps of MadCap Flare</article>
-		</readings>
-		<assignments>
-			<homework>Modular authoring in-class acitvity (Upload to Blackboard)</homework>
-			<homework>Continue to work on your persuasive memo.</homework>
-			<homework>You should be working in teams for your final project.</homework>
+			<homework>Come to class with a tool for project 4. Push to git repo.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 13</week>
 		<date>November 23</date>
 		<learning-objective>
-			<objective>Students will be able to synthesize their experience in the course by connecting concepts and principles from the beginning to the end of the semester.</objective>
+			<objective></objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Discuss readings</activity>
-			<activity>Lecture- reflection and contextualization</activity>
-			<activity>Workshop time</activity>
+			<activity>Graduate level discussion</activity>
+			<activity>Dicuss content life cycle</activity>
+			<activity>Short content management discussion/activity</activity>
+			<activity>Discuss Project 4</activity>
+			<activity>Workshop</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article>Do your own research to fill in the knowledge gaps of MadCap Flare</article>
 		</readings>
 		<assignments>
-			<homework>Project 3 - Persuasive memo due. Create GitHub repository, add PDF files, and send me your link.</homework>
+			<homework>Project 3 due before class. Push to Git repo w/ link to kb.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 14</week>
 		<date>November 30</date>
+		<learning-objective>
+			<objective>Students will be able to synthesize their experience in the course by connecting concepts and principles from the beginning to the end of the semester.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Share projects</activity>
+			<activity>Persuasion Lecture and activity</activity>
+			<activity>Workshop Project 4</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Work on final project.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 15 (Finals week)</week>
+		<date>December 7</date>
 		<learning-objective>
 			<objective>No new content this week.</objective>
 		</learning-objective>
@@ -356,23 +352,8 @@
 			<article>No New Readings</article>
 		</readings>
 		<assignments>
-			<homework>Keep working on your final projects.</homework>
+			<homework>Final project due Thursday, December 10</homework>
 		</assignments>
 	</class>
-	<class>
-		<week>Finals Week</week>
-		<date>December 7</date>
-		<learning-objective>
-			<objective></objective>
-		</learning-objective>
-		<class-activities>
-			<activity>Turn in Final Project</activity>
-		</class-activities>
-		<readings>
-			<article>No new readings</article>
-		</readings>
-		<assignments>
-			<homework>Project 4 due. Create GitHub repository, add files, and send me the link.</homework>
-		</assignments>
-	</class>
+	
 </schedule>
