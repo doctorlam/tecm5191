@@ -10,13 +10,14 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Introductions</activity>
-			<activity>Check for understanding: line-up</activity>
+			<activity>Check for understanding: Poll</activity>
 			<activity>Syllabus and course review</activity>
 			<activity>Discussion about readings</activity>
 			<activity>Case study: Walk through course website as it applies to digital literacy</activity>
 			<activity>Let's git ready to rumble.</activity>
 			<activity>First git XML repository</activity>
 			<activity>Class brainstorm of interview questions.</activity>
+			<activity>Groups for graduate discussions</activity>
 		</class-activities>
 		<readings>
 			<article>Read Carliner article (chapter 1) in <author>Spilka</author>, pp. 22-51.</article>
@@ -34,7 +35,7 @@
 	</class>
 	<class>
 		<week>Week 2</week>
-		<date>September 7</date>
+		<date>August 31</date>
 		<learning-objective>
 			<objective>Students will apply principles of information literacy by exploring language data using AntConc.</objective>
 			<objective>Students will know the core literacies of a technical communicator based on their corpus analysis</objective>
@@ -67,6 +68,7 @@
 			<objective>Students will have a clear understanding of the digital literacies required of a technical communicator</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Group 1 - Graduate discussion</activity>
 			<activity>Discussion of readings</activity>
 			<activity>Workshop for project 1.</activity>
 		</class-activities>
@@ -107,7 +109,7 @@
 			<objective>Students will create a valid HTML5 page.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Check for understanding activity</activity>
+			<activity>Group 2 - Graduate Discussion</activity>
 			<activity>Lecture on basic purpose, structure, and rules of HTML</activity>
 			<activity>Reverse engineering of HTML site</activity>
 			<activity>HTML exploratory activity</activity>
@@ -143,6 +145,7 @@
 			<activity>Markup UNT TC graduate course catalog</activity>
 		</class-activities>
 		<readings>
+			<article>Baker Chapter 2, "Include it all, filter it afterward"</article>
 			<article_url><description>Clark and Anderson (2005). Renegotiating with Technoiogy: Training Towards More Sustainable technical Communication</description>
 				<url>http://courses.christopherylam.com/5191/readings/clark_2005.pdf</url>
 			</article_url>
@@ -165,7 +168,7 @@
 			<objective>Students will be able to use XSLT to transform an existing XML data into an HTML table</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Check for understanding activity</activity>
+			<activity>Group 3: Graduate discussion</activity>
 			<activity>Discuss readings</activity>
 			<activity>Lecture on XSLT transformations</activity>
 			<activity>Convert existing dataset into HTML table</activity>
@@ -215,11 +218,13 @@
 			<objective>No new knowledge this week.</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Group 4: Graduate discussion</activity>
 			<activity>Present Project 2</activity>
 			<activity>Discuss Project 3</activity>
 			<activity>Get into groups for project 3</activity>
 		</class-activities>
 		<readings>
+			<article>Baker Introduction, chapter 3</article>
 			<article_url><description>Albers (2003). Single sourcing and technical communication career path</description>
 				<url>http://jazzoetry.net/tech-writing.pdf</url>
 			</article_url>
@@ -242,6 +247,7 @@
 			<activity>Architecture activity</activity>
 		</class-activities>
 		<readings>
+			<article>Baker Introduction, chapters 6-9</article>
 			<article><author>Spilka</author> Chapter 8: Addressing Audiences in a Digital Age</article>
 
 		</readings>
@@ -257,13 +263,15 @@
 			<objective>Students will know the basic principles of modular writing</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Group 5: Graduate discussion</activity>
 			<activity>Discuss readings</activity>
 			<activity>Topic-based authoring lecture.</activity>
 			<activity>Related topics activity</activity>
 		
 		</class-activities>
 		<readings>
-			<article>EPOP Reading--TBA</article>
+			<article>Baker chapters 10-13, 14-16</article>
+
 			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
 				<url>https://www.youtube.com/watch?v=83riPAybyzk</url>
 			</article_url>
@@ -290,7 +298,8 @@
 			<activity>Card sort activity</activity>
 		</class-activities>
 		<readings>
-		
+			<article>Baker chapters 4-5, 17-20</article>
+
 			<article_url><description>Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
 				<url>https://www.youtube.com/watch?v=jA_JI6t-nmE</url>
 			</article_url>
@@ -304,7 +313,7 @@
 		<week>Week 13</week>
 		<date>November 23</date>
 		<learning-objective>
-			<objective></objective>
+			<objective>Students will understand the content life cycle and how it relates to technical communicators.</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Graduate level discussion</activity>
@@ -314,7 +323,7 @@
 			<activity>Workshop</activity>
 		</class-activities>
 		<readings>
-			<article>Do your own research to fill in the knowledge gaps of MadCap Flare</article>
+			<article>TBA</article>
 		</readings>
 		<assignments>
 			<homework>Project 3 due before class. Push to Git repo w/ link to kb.</homework>
