@@ -34,7 +34,7 @@ function displayResult()
    xml = loadXMLDoc("xml/schedule.xml");
    xsl = loadXMLDoc("xml/schedule.xsl");
    // code for IE
-   if (window.ActiveXObject)
+if (window.ActiveXObject || "ActiveXObject" in window)
    {
         ex=xml.transformNode(xsl);
         document.getElementById("example").innerHTML=ex;
