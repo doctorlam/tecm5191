@@ -116,6 +116,9 @@
 			<activity>HTML exploratory activity</activity>
 		</class-activities>
 		<readings>
+			<article_url><description>Chris and Cristina's Article</description>
+				<url>readings/giamonna.pdf</url>
+			</article_url>
 			<article><author>Spilka</author> chapter 5: Content Management: Beyond Single Sourcing by William Hart-Davidson</article>
 			<article_url><description>Basic rules of HTML.</description>
 				<url>http://www.techrepublic.com/article/basic-html-rules/</url>
