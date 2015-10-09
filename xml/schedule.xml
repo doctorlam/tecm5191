@@ -172,12 +172,15 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Group 3: Graduate discussion</activity>
-			<activity>Discuss readings</activity>
+			<activity>Debrief XML and HTMl activities from past 2 weeks.</activity>
 			<activity>Lecture on XSLT transformations</activity>
 			<activity>Convert existing dataset into HTML table</activity>
 			<activity>Learn to apply simple CSS styles to the table</activity>
 		</class-activities>
 		<readings>
+			<article_url><description>Kylie's group article</description>
+				<url>readings/kylie.pdf</url>
+			</article_url>
 			<article_url><description>Watch this 15 minute video on CSS.</description>
 				<url>https://www.youtube.com/watch?v=Wz2klMXDqF4</url>
 			</article_url>
