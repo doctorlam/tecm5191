@@ -276,8 +276,8 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Group 5: Graduate discussion</activity>
-			<activity>Discuss readings</activity>
-			<activity>Workshop</activity>
+			<activity>Discuss Card Sort Activity</activity>
+			<activity>Modular Authoring Lecture/discussion</activity>
 		
 		</class-activities>
 		<readings>
@@ -297,6 +297,7 @@
 			</article_url>
 		</readings>
 		<assignments>
+			<homework>500 word proposal for Project 4. Push to Git response repo (please push to the correct repo--your personal response folder)</homework>
 			<homework>Reflect: Write a 300-word free response to the two articles assigned. Commit and push to GitHub repository.</homework>
 		</assignments>
 	</class>
@@ -309,18 +310,16 @@
 		<class-activities>
 			<activity>Graduate discussion of readings</activity>
 			<activity>Small groups/Flare update</activity>
-			<activity>Card sort activity</activity>
 		</class-activities>
 		<readings>
 			<article>Baker chapters 4-5, 17-20</article>
 
-			<article_url><description>Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
+			<article_url><description>(Optional)Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
 				<url>https://www.youtube.com/watch?v=jA_JI6t-nmE</url>
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Modular writing homework.</homework>
-			<homework>Come to class with a tool for project 4. Push to git repo.</homework>
+			<homework>300-word status update on Project 4. List what deliverables you've completed and what deliverables you still have to complete. Include specific dates for each deliverable.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -330,11 +329,8 @@
 			<objective>Students will understand the content life cycle and how it relates to technical communicators.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Graduate level discussion</activity>
-			<activity>Dicuss content life cycle</activity>
-			<activity>Short content management discussion/activity</activity>
-			<activity>Discuss Project 4</activity>
 			<activity>Workshop</activity>
+			<activity>Project 4 updates</activity>
 		</class-activities>
 		<readings>
 			<article>TBA</article>
@@ -351,7 +347,7 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Share projects</activity>
-			<activity>Persuasion Lecture and activity</activity>
+			<activity>Semester overview</activity>
 			<activity>Workshop Project 4</activity>
 		</class-activities>
 		<readings>
