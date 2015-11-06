@@ -281,6 +281,9 @@
 		
 		</class-activities>
 		<readings>
+			<article_url><description>Kathryn and Kaitlyn's Article</description>
+				<url>readings/pringle.pdf</url>
+			</article_url>
 			<article>Baker chapters 10-13, 14-16</article>
 
 			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
