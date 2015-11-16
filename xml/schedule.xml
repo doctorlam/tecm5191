@@ -308,8 +308,9 @@
 			<objective>Students will be able to apply top-down architecture</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Graduate discussion of readings</activity>
-			<activity>Small groups/Flare update</activity>
+			<activity>Kylie Shares her project 2</activity>
+			<activity>Semester overview/reflection time</activity>
+			<activity>Workshop</activity>
 		</class-activities>
 		<readings>
 			<article>Baker chapters 4-5, 17-20</article>
@@ -329,11 +330,12 @@
 			<objective>Students will understand the content life cycle and how it relates to technical communicators.</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Share Project 3 with class</activity>
+			<activity>Project 4 oral updates</activity>
 			<activity>Workshop</activity>
-			<activity>Project 4 updates</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article>No Readings this week</article>
 		</readings>
 		<assignments>
 			<homework>Project 3 due before class. Push to Git repo w/ link to kb.</homework>
@@ -346,12 +348,10 @@
 			<objective>Students will be able to synthesize their experience in the course by connecting concepts and principles from the beginning to the end of the semester.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Share projects</activity>
-			<activity>Semester overview</activity>
 			<activity>Workshop Project 4</activity>
 		</class-activities>
 		<readings>
-			<article>Readings TBA</article>
+			<article>No new readings</article>
 		</readings>
 		<assignments>
 			<homework>Work on final project.</homework>
